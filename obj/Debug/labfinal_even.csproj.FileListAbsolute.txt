@@ -1,0 +1,11 @@
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\bin\Debug\labfinal_even.exe.config
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\bin\Debug\labfinal_even.exe
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\bin\Debug\labfinal_even.pdb
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.csproj.AssemblyReference.cache
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.Form1.resources
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.Properties.Resources.resources
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.csproj.GenerateResource.cache
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.csproj.CoreCompileInputs.cache
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.exe
+C:\Users\Win-10\source\repos\labfinal_even\labfinal_even\obj\Debug\labfinal_even.pdb
